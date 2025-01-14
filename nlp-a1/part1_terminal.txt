@@ -1,0 +1,119 @@
+/home/emilia/anaconda3/envs/nlp-a1/bin/python /home/emilia/Code/nlp-a1/part1.py
+[nltk_data] Downloading package punkt to ....
+[nltk_data]   Package punkt is already up-to-date!
+[nltk_data] Downloading package wordnet to
+[nltk_data]     /home/emilia/anaconda3/envs/nlp-a1/nltk_data...
+[nltk_data]   Package wordnet is already up-to-date!
+First 20 tokens:
+- exhibit
+- 10.41
+- sponsorship
+- agreement
+- this
+- sponsorship
+- agreement
+- (
+- the
+- ``
+- agreement
+- ''
+- )
+- is
+- entered
+- into
+- effective
+- january
+- 1
+- ,
+Number of tokens:4789823
+Type/token ratio: 0.8992190316844694%
+20 most frequent tokens:
+- the | 257132
+- , | 240576
+- of | 156122
+- to | 129875
+- and | 129054
+- . | 117486
+- or | 105155
+- a | 83909
+- in | 79933
+- ) | 78092
+- ( | 75436
+- * | 67765
+- any | 62236
+- -- | 58711
+- shall | 48794
+- party | 46335
+- agreement | 45740
+- by | 44311
+- this | 39987
+- be | 39701
+Number of tokens only appearing once: 18947
+Number of words: 25772
+20 most frequent words:
+- the | 257132
+- of | 156122
+- to | 129875
+- and | 129054
+- or | 105155
+- a | 416
+- in | 79933
+- any | 62236
+- shall | 48794
+- party | 46335
+- agreement | 1
+- by | 44311
+- this | 39987
+- be | 39701
+- for | 38724
+- such | 36172
+- with | 33883
+- it | 27712
+- that | 27654
+- other | 26395
+Type/token ratio: 0.7089664225777692%
+20 most frequent words without stop words:
+- party | 46335
+- agreement | 1
+- product | 18925
+- right | 14725
+- section | 14218
+- term | 13289
+- company | 12906
+- service | 12190
+- information | 1
+- date | 10488
+- ha | 9287
+- material | 8145
+- law | 8051
+- notice | 7813
+- obligation | 7806
+- applicable | 7533
+- business | 7512
+- set | 7102
+- respect | 7001
+- mean | 7000
+Type/token ratio: 1.4212575901023148%
+20 most frequent bigrams:
+- confidential, information | 3602
+- intellectual, property | 2928
+- term, agreement | 2919
+- effective, date | 2848
+- written, notice | 2395
+- agreement, party | 2381
+- term, condition | 2192
+- applicable, law | 2085
+- party, party | 1966
+- set, section | 1915
+- prior, written | 1814
+- provision, agreement | 1671
+- confidential, treatment | 1534
+- party, agree | 1447
+- termination, agreement | 1438
+- security, exchange | 1423
+- pursuant, section | 1416
+- receiving, party | 1369
+- written, consent | 1337
+- obligation, agreement | 1297
+
+Process finished with exit code 0

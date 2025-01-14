@@ -1,0 +1,80 @@
+measure{
+  key: "result-size-all-spoilers"
+  value: "1000"
+}
+measure{
+  key: "bleu-score-all-spoilers"
+  value: "0.4604534622303916"
+}
+measure{
+  key: "bert-score-all-spoilers"
+  value: "0.9198873043060303"
+}
+measure{
+  key: "meteor-score-all-spoilers"
+  value: "0.5"
+}
+measure{
+  key: "missing-predictions-all-spoilers"
+  value: "0"
+}
+measure{
+  key: "result-size-phrase-spoilers"
+  value: "423"
+}
+measure{
+  key: "bleu-score-phrase-spoilers"
+  value: "0.6114739053229962"
+}
+measure{
+  key: "bert-score-phrase-spoilers"
+  value: "0.9353054165840149"
+}
+measure{
+  key: "meteor-score-phrase-spoilers"
+  value: "0.5"
+}
+measure{
+  key: "missing-predictions-phrase-spoilers"
+  value: "0"
+}
+measure{
+  key: "result-size-passage-spoilers"
+  value: "403"
+}
+measure{
+  key: "bleu-score-passage-spoilers"
+  value: "0.39085481721349324"
+}
+measure{
+  key: "bert-score-passage-spoilers"
+  value: "0.915439784526825"
+}
+measure{
+  key: "meteor-score-passage-spoilers"
+  value: "0.5"
+}
+measure{
+  key: "missing-predictions-passage-spoilers"
+  value: "0"
+}
+measure{
+  key: "result-size-multi-spoilers"
+  value: "174"
+}
+measure{
+  key: "bleu-score-multi-spoilers"
+  value: "0.25451441920532286"
+}
+measure{
+  key: "bert-score-multi-spoilers"
+  value: "0.8927061557769775"
+}
+measure{
+  key: "meteor-score-multi-spoilers"
+  value: "0.5"
+}
+measure{
+  key: "missing-predictions-multi-spoilers"
+  value: "0"
+}
